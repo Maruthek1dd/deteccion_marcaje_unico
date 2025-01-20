@@ -33,4 +33,4 @@ Este proyecto tiene como objetivo procesar un conjunto de datos de marcajes de e
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/deteccion_marcajes_unicos.git
+   git clone https://github.com/Maruthek1dd/deteccion_marcajes_unicos.git
